@@ -1,1 +1,2 @@
 # Movie-Recommendation-System
+This Python project was developed as part of my internship at YBI Foundation. The project focuses on building a movie recommendation system using machine learning techniques to provide personalized movie suggestions based on user preferences and movie features such as genre, runtime, and release year. The system's performance is evaluated using metrics like Root Mean Squared Error (RMSE) with the aim of deploying a user-friendly platform to enhance movie-watching experiences.
